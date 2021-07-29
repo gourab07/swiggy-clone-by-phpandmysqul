@@ -1,0 +1,105 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.nav_img{
+	width: 100%;
+	height: 550px;
+}
+.navbar{
+	padding-right: 35px;
+	padding-left: 35px;
+}
+.navbar-brand img{
+	width: 200px;
+	height: 60px;
+}
+.navbar-nav .nav-link{
+
+	display: inline-block;
+	background-color: #ddd;
+	color: black;
+	margin-right: 9px;
+	border-radius: 20px;
+	width: 80px;
+	text-align: center;
+}
+.nav-link:hover{
+	background-color: black;
+	color: orange;
+}
+
+.side-img{
+	padding: 0;
+}
+.container{
+	padding-left: 35px;
+}
+.container .search{
+	width: 350px;
+	height: 45px;
+}
+.container .search-btn{
+	width: 100px;
+	height: 46px;
+}
+.container input[type="text"]{
+	outline: none;
+	padding: 0 25px;
+}
+.container input[type="button"]{
+	position: relative;
+	left: -25px;
+	font-weight: 700;
+	border: none;
+	outline: none;
+	background-color: orange;
+	color: #fff;
+}
+.container .fas{
+	position: relative;
+	left: -30px;
+}
+.container input[type="button"]:hover{
+	background-color: orangered;
+ }
+.container2{
+	background-color: #1a0d00;
+	height: 350px;
+}
+.container2 .row img{
+	width: 150x;
+	height: 200px;
+}
+.text-4{
+	color: #fff;
+	margin-top: 25px;
+	text-align: center;
+}
+.text-5 {
+	margin-top: 80px;
+	padding-left: 55px;
+}
+.text-5 img{
+	width: 170px;
+	height: 50px;
+	margin-top: 40px;
+	margin-right: 20px;
+
+}
+.mobile-img{
+	width: 100%;
+	height: 450px;
+}
+.mobile-img #img1{
+	width: 100%;
+	height: 450px;
+	display: inline-block;
+}
+.mobile-img #img2{
+	width: 100%;
+	height: 450px;
+	display: inline;
+}
+
+
